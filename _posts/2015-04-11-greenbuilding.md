@@ -1,14 +1,16 @@
 ---
 layout: post
-category: "绿色建筑"
-title: "北京奥林匹克"
-tags: ["北京"]
+category: "hi123"
+title: "北京"
+tags: ["hello"]
 ---
 
-#北京奥林匹克中心
+#hello
 
-## 绿色建筑
+## jhjkh
 ###dgd
 
 adawdzs
 
+
+dsgvf
