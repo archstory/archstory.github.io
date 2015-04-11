@@ -9,11 +9,11 @@ tags: ["Residentional"]
 
 - - -
 ##<a name="index"></a>目录
- Architects: Teeple Architects
-Location: Toronto, Canada
-Principal in Charge: Stephen Teeple
-Project Manager: Chris Radigan
-Project Architects: Richard Lai (OAA), William Elsworthy
+ Architects: Teeple Architects     
+Location: Toronto, Canada    
+Principal in Charge: Stephen Teeple    
+Project Manager: Chris Radigan    
+Project Architects: Richard Lai (OAA), William Elsworthy    
 Structural Engineer: CPE Structural Consultants Limited
 Mechanical Engineer: Jain & Associates
 Electrical Engineer: Jain & Associates
