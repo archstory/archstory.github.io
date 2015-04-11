@@ -13,8 +13,8 @@ paginate_path: "page:num"
 
 # presonal config
 domain: archstory.github.io
-title: archstory 
-description: c, avr, embedded, Linux, python ...
+title: Archstory 
+description: learn more about architecture
 author: archstory
 email: daniel900421@iclud.com
 github: archstory
