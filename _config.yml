@@ -12,12 +12,12 @@ paginate: 10
 paginate_path: "page:num"
 
 # presonal config
-domain: wdyggh.github.io
-title: wdyggh's Blog
+domain: archstory.github.io
+title: archstory's Blog
 description: c, avr, embedded, Linux, python ...
-author: wdy
-email: wdyggh@gmail.com
-github: wdyggh
+author: archstory
+email: 
+github: archstory
 
 config:
   js_dir:
