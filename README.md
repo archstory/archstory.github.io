@@ -22,9 +22,8 @@ http://archstory.github.io
 4. 谷歌搜索 提交网址, 官网：https://www.google.com/webmasters/tools/submit-url?pli=1
 
 ####联系方式
-联系方式：qq 616599972  
-Email(wdyggh@gmail.com)  
-facebook :https://www.facebook.com/dingyang.wang
+联系方式：qq 654129713
+Email(danile900421@icloud.com)  
 
 ####使用本项目作模板的博客链接
 http://www.94geek.com  
@@ -33,7 +32,8 @@ http://www.malphi.net
 http://happyaround.com  
 http://tencentlocation.github.io  
 http://wtaps.github.io  
-http://wdyggh.github.io  
+http://wdyggh.github.io 
+http://archstory.github.io
 (你的位置)  
 
 ####layout post  
