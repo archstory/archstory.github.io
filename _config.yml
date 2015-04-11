@@ -14,7 +14,7 @@ paginate_path: "page:num"
 # presonal config
 domain: archstory.github.io
 title: Archstory 
-description: learn more about architecture
+description: Learn more about architecture
 author: archstory
 email: daniel900421@icloud.com
 github: archstory
